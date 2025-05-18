@@ -1,6 +1,6 @@
 
 
-number = 7
+number = 10
 
 def your_code(number):
     if number % 2 == 1:
